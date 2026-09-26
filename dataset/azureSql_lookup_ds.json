@@ -1,0 +1,13 @@
+{
+	"name": "azureSql_lookup_ds",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sourceSql_31",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

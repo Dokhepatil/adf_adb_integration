@@ -1,0 +1,15 @@
+{
+	"name": "adfadbavd",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d363c1f8-1998-43b5-823b-198cbe545828",
+		"tenantId": "671da477-217c-4ab2-86e4-3036f5dd8782"
+	}
+}
